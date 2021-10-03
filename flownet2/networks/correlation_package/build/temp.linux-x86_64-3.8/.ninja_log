@@ -1,0 +1,3 @@
+# ninja log v5
+0	11570	1630983521051682709	/home/yons/code/flownet2/networks/correlation_package/build/temp.linux-x86_64-3.8/correlation_cuda.o	e3fd64a0e1449f26
+0	17627	1630983527107872864	/home/yons/code/flownet2/networks/correlation_package/build/temp.linux-x86_64-3.8/correlation_cuda_kernel.o	324f2be5096af994

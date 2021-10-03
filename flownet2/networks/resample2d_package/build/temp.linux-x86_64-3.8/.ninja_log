@@ -1,0 +1,3 @@
+# ninja log v5
+0	11492	1630983539860272122	/home/yons/code/flownet2/networks/resample2d_package/build/temp.linux-x86_64-3.8/resample2d_cuda.o	dd94ce5272404c34
+1	15723	1630983544088404162	/home/yons/code/flownet2/networks/resample2d_package/build/temp.linux-x86_64-3.8/resample2d_kernel.o	e1fdcaeb8fa67509
